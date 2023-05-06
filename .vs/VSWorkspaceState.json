@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\public_html"
+    "\\assets",
+    "\\assets\\css",
+    "\\assets\\imgs",
+    "\\assets\\imgs\\master",
+    "\\assets\\imgs\\phd",
+    "\\assets\\js",
+    "\\assets\\scss"
   ],
-  "SelectedNode": "\\public_html\\index.html",
+  "SelectedNode": "\\assets\\imgs\\header.jpg",
   "PreviewInSolutionExplorer": false
 }
