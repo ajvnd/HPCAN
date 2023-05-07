@@ -10,3 +10,4 @@ Email address
 LinkedIn profile URL
 Current position
 Personal photo 
+
