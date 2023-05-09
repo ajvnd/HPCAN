@@ -11,4 +11,4 @@ To see the latest update please check https://ajvnd.github.io/HPCAN/.
         Current position
         Personal photo 
 
-- In case of any incorrect information, please create a new issue and specify the problem along with the correct data.
+- In case of any incorrect information, please create a new issue and specify the problem along with the correct data .
